@@ -1,4 +1,13 @@
-#Tipos de Variable
+
+#Tipos de Variable y Operaciones Basicas
+
+#Operaciones Basicas 
+
+#Suma +
+#Resta -
+#Multiplicacion *
+#Division /
+
 #Enteros
 xe = 1
 ye = 2
@@ -11,8 +20,4 @@ yf = 2.55
 @show ze = xf + yf 
 println(ze) 
 
-#Strings // Cadenas de Texto
-a = "Hola"
-b = "Alejandra"
 
-println(a * " " * b)
